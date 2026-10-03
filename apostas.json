@@ -1,0 +1,2910 @@
+{
+  "ok": true,
+  "atualizado_em": "2026-10-03T23:59:37.827Z",
+  "fonte": "The Classic PW",
+  "evento": 126,
+  "valor_por_aposta": 500000,
+  "quantidade_partidas": 100,
+  "partidas": [
+    {
+      "id": 106,
+      "nome": "TW DIA 04/10",
+      "status": 0,
+      "inicio": "2026-10-02 21:16:37",
+      "vencedor": null,
+      "lado1": {
+        "cla": "Sunrise",
+        "letra": "E",
+        "apostas": 33,
+        "apostadores_unicos": 9,
+        "valor": 16500000,
+        "retorno_simulado": 590909,
+        "multiplicador": 1.1818
+      },
+      "lado2": {
+        "cla": "BIGBIGSz",
+        "letra": "F",
+        "apostas": 6,
+        "apostadores_unicos": 6,
+        "valor": 3000000,
+        "retorno_simulado": 3250000,
+        "multiplicador": 6.5
+      },
+      "total": {
+        "apostas": 39,
+        "valor": 19500000
+      }
+    },
+    {
+      "id": 105,
+      "nome": "TW DIA 04/10",
+      "status": 0,
+      "inicio": "2026-10-02 21:15:14",
+      "vencedor": null,
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "C",
+        "apostas": 83,
+        "apostadores_unicos": 22,
+        "valor": 41500000,
+        "retorno_simulado": 3198795,
+        "multiplicador": 6.3976
+      },
+      "lado2": {
+        "cla": "PANTANAL",
+        "letra": "D",
+        "apostas": 448,
+        "apostadores_unicos": 29,
+        "valor": 224000000,
+        "retorno_simulado": 592633,
+        "multiplicador": 1.1853
+      },
+      "total": {
+        "apostas": 531,
+        "valor": 265500000
+      }
+    },
+    {
+      "id": 104,
+      "nome": "TW DIA 03/10",
+      "status": 1,
+      "inicio": "2026-10-02 21:14:44",
+      "vencedor": "300",
+      "lado1": {
+        "cla": "300",
+        "letra": "A",
+        "apostas": 1743,
+        "apostadores_unicos": 82,
+        "valor": 871500000,
+        "retorno_simulado": 738955,
+        "multiplicador": 1.4779
+      },
+      "lado2": {
+        "cla": "Akatsuki",
+        "letra": "B",
+        "apostas": 833,
+        "apostadores_unicos": 72,
+        "valor": 416500000,
+        "retorno_simulado": 1546218,
+        "multiplicador": 3.0924
+      },
+      "total": {
+        "apostas": 2576,
+        "valor": 1288000000
+      }
+    },
+    {
+      "id": 103,
+      "nome": "TW DIA 27/09",
+      "status": 1,
+      "inicio": "2026-09-25 13:42:04",
+      "vencedor": "Honor",
+      "lado1": {
+        "cla": "Honor",
+        "letra": "G",
+        "apostas": 540,
+        "apostadores_unicos": 54,
+        "valor": 270000000,
+        "retorno_simulado": 660185,
+        "multiplicador": 1.3204
+      },
+      "lado2": {
+        "cla": "Sunrise",
+        "letra": "H",
+        "apostas": 173,
+        "apostadores_unicos": 47,
+        "valor": 86500000,
+        "retorno_simulado": 2060693,
+        "multiplicador": 4.1214
+      },
+      "total": {
+        "apostas": 713,
+        "valor": 356500000
+      }
+    },
+    {
+      "id": 102,
+      "nome": "TW DIA 27/09",
+      "status": 1,
+      "inicio": "2026-09-25 13:41:15",
+      "vencedor": "PANTANAL",
+      "lado1": {
+        "cla": "PANTANAL",
+        "letra": "E",
+        "apostas": 1928,
+        "apostadores_unicos": 110,
+        "valor": 964000000,
+        "retorno_simulado": 585321,
+        "multiplicador": 1.1706
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "F",
+        "apostas": 329,
+        "apostadores_unicos": 76,
+        "valor": 164500000,
+        "retorno_simulado": 3430091,
+        "multiplicador": 6.8602
+      },
+      "total": {
+        "apostas": 2257,
+        "valor": 1128500000
+      }
+    },
+    {
+      "id": 101,
+      "nome": "TW DIA 26/09",
+      "status": 1,
+      "inicio": "2026-09-25 13:40:30",
+      "vencedor": "Sunrise",
+      "lado1": {
+        "cla": "Sunrise",
+        "letra": "C",
+        "apostas": 140,
+        "apostadores_unicos": 19,
+        "valor": 70000000,
+        "retorno_simulado": 589285,
+        "multiplicador": 1.1786
+      },
+      "lado2": {
+        "cla": "NoName",
+        "letra": "D",
+        "apostas": 25,
+        "apostadores_unicos": 14,
+        "valor": 12500000,
+        "retorno_simulado": 3300000,
+        "multiplicador": 6.6
+      },
+      "total": {
+        "apostas": 165,
+        "valor": 82500000
+      }
+    },
+    {
+      "id": 100,
+      "nome": "TW DIA 26/09",
+      "status": 1,
+      "inicio": "2026-09-25 13:39:51",
+      "vencedor": "Akatsuki",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "A",
+        "apostas": 182,
+        "apostadores_unicos": 22,
+        "valor": 91000000,
+        "retorno_simulado": 530219,
+        "multiplicador": 1.0604
+      },
+      "lado2": {
+        "cla": "ONFIRE",
+        "letra": "B",
+        "apostas": 11,
+        "apostadores_unicos": 6,
+        "valor": 5500000,
+        "retorno_simulado": 8772727,
+        "multiplicador": 17.5455
+      },
+      "total": {
+        "apostas": 193,
+        "valor": 96500000
+      }
+    },
+    {
+      "id": 99,
+      "nome": "TW DIA 20/09",
+      "status": 1,
+      "inicio": "2026-09-18 10:29:44",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 2407,
+        "apostadores_unicos": 149,
+        "valor": 1203500000,
+        "retorno_simulado": 1154549,
+        "multiplicador": 2.3091
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "F",
+        "apostas": 3151,
+        "apostadores_unicos": 217,
+        "valor": 1575500000,
+        "retorno_simulado": 881942,
+        "multiplicador": 1.7639
+      },
+      "total": {
+        "apostas": 5558,
+        "valor": 2779000000
+      }
+    },
+    {
+      "id": 98,
+      "nome": "TW DIA 20/09",
+      "status": 1,
+      "inicio": "2026-09-18 10:28:17",
+      "vencedor": "FURIA",
+      "lado1": {
+        "cla": "FURIA",
+        "letra": "C",
+        "apostas": 408,
+        "apostadores_unicos": 63,
+        "valor": 204000000,
+        "retorno_simulado": 985294,
+        "multiplicador": 1.9706
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "D",
+        "apostas": 396,
+        "apostadores_unicos": 62,
+        "valor": 198000000,
+        "retorno_simulado": 1015151,
+        "multiplicador": 2.0303
+      },
+      "total": {
+        "apostas": 804,
+        "valor": 402000000
+      }
+    },
+    {
+      "id": 97,
+      "nome": "TW DIA 19/09",
+      "status": 1,
+      "inicio": "2026-09-18 10:26:57",
+      "vencedor": "PANTANAL",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "A",
+        "apostas": 311,
+        "apostadores_unicos": 49,
+        "valor": 155500000,
+        "retorno_simulado": 1747588,
+        "multiplicador": 3.4952
+      },
+      "lado2": {
+        "cla": "PANTANAL",
+        "letra": "B",
+        "apostas": 776,
+        "apostadores_unicos": 67,
+        "valor": 388000000,
+        "retorno_simulado": 700386,
+        "multiplicador": 1.4008
+      },
+      "total": {
+        "apostas": 1087,
+        "valor": 543500000
+      }
+    },
+    {
+      "id": 96,
+      "nome": "TW 13/09",
+      "status": 1,
+      "inicio": "2026-09-11 23:10:06",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "C",
+        "apostas": 1348,
+        "apostadores_unicos": 134,
+        "valor": 674000000,
+        "retorno_simulado": 994065,
+        "multiplicador": 1.9881
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "D",
+        "apostas": 1332,
+        "apostadores_unicos": 109,
+        "valor": 666000000,
+        "retorno_simulado": 1006006,
+        "multiplicador": 2.012
+      },
+      "total": {
+        "apostas": 2680,
+        "valor": 1340000000
+      }
+    },
+    {
+      "id": 95,
+      "nome": "TW 12/09",
+      "status": 1,
+      "inicio": "2026-09-11 23:09:34",
+      "vencedor": "Honor",
+      "lado1": {
+        "cla": "Honor",
+        "letra": "A",
+        "apostas": 197,
+        "apostadores_unicos": 22,
+        "valor": 98500000,
+        "retorno_simulado": 558375,
+        "multiplicador": 1.1168
+      },
+      "lado2": {
+        "cla": "ONFIRE",
+        "letra": "B",
+        "apostas": 23,
+        "apostadores_unicos": 12,
+        "valor": 11500000,
+        "retorno_simulado": 4782608,
+        "multiplicador": 9.5652
+      },
+      "total": {
+        "apostas": 220,
+        "valor": 110000000
+      }
+    },
+    {
+      "id": 94,
+      "nome": "TW 16/08",
+      "status": 1,
+      "inicio": "2026-08-15 00:58:32",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "E",
+        "apostas": 692,
+        "apostadores_unicos": 75,
+        "valor": 346000000,
+        "retorno_simulado": 716763,
+        "multiplicador": 1.4335
+      },
+      "lado2": {
+        "cla": "FURIA",
+        "letra": "F",
+        "apostas": 300,
+        "apostadores_unicos": 56,
+        "valor": 150000000,
+        "retorno_simulado": 1653333,
+        "multiplicador": 3.3067
+      },
+      "total": {
+        "apostas": 992,
+        "valor": 496000000
+      }
+    },
+    {
+      "id": 93,
+      "nome": "TW 16/08",
+      "status": 1,
+      "inicio": "2026-08-15 00:58:06",
+      "vencedor": "Akatsuki",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "C",
+        "apostas": 197,
+        "apostadores_unicos": 41,
+        "valor": 98500000,
+        "retorno_simulado": 774111,
+        "multiplicador": 1.5482
+      },
+      "lado2": {
+        "cla": "TheDevil",
+        "letra": "D",
+        "apostas": 108,
+        "apostadores_unicos": 18,
+        "valor": 54000000,
+        "retorno_simulado": 1412037,
+        "multiplicador": 2.8241
+      },
+      "total": {
+        "apostas": 305,
+        "valor": 152500000
+      }
+    },
+    {
+      "id": 92,
+      "nome": "TW 16/08",
+      "status": 1,
+      "inicio": "2026-08-15 00:56:57",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "A",
+        "apostas": 219,
+        "apostadores_unicos": 38,
+        "valor": 109500000,
+        "retorno_simulado": 988584,
+        "multiplicador": 1.9772
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "B",
+        "apostas": 214,
+        "apostadores_unicos": 32,
+        "valor": 107000000,
+        "retorno_simulado": 1011682,
+        "multiplicador": 2.0234
+      },
+      "total": {
+        "apostas": 433,
+        "valor": 216500000
+      }
+    },
+    {
+      "id": 91,
+      "nome": "TW 09/08",
+      "status": 1,
+      "inicio": "2026-08-07 22:32:35",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "A",
+        "apostas": 303,
+        "apostadores_unicos": 51,
+        "valor": 151500000,
+        "retorno_simulado": 668316,
+        "multiplicador": 1.3366
+      },
+      "lado2": {
+        "cla": "Infinity",
+        "letra": "B",
+        "apostas": 102,
+        "apostadores_unicos": 26,
+        "valor": 51000000,
+        "retorno_simulado": 1985294,
+        "multiplicador": 3.9706
+      },
+      "total": {
+        "apostas": 405,
+        "valor": 202500000
+      }
+    },
+    {
+      "id": 90,
+      "nome": "TW 02/08",
+      "status": 1,
+      "inicio": "2026-07-31 11:34:00",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "G",
+        "apostas": 183,
+        "apostadores_unicos": 28,
+        "valor": 91500000,
+        "retorno_simulado": 579234,
+        "multiplicador": 1.1585
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "H",
+        "apostas": 29,
+        "apostadores_unicos": 13,
+        "valor": 14500000,
+        "retorno_simulado": 3655172,
+        "multiplicador": 7.3103
+      },
+      "total": {
+        "apostas": 212,
+        "valor": 106000000
+      }
+    },
+    {
+      "id": 89,
+      "nome": "TW 02/08",
+      "status": 1,
+      "inicio": "2026-07-31 11:33:33",
+      "vencedor": "TheDevil",
+      "lado1": {
+        "cla": "TheDevil",
+        "letra": "E",
+        "apostas": 458,
+        "apostadores_unicos": 46,
+        "valor": 229000000,
+        "retorno_simulado": 686681,
+        "multiplicador": 1.3734
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "F",
+        "apostas": 171,
+        "apostadores_unicos": 33,
+        "valor": 85500000,
+        "retorno_simulado": 1839181,
+        "multiplicador": 3.6784
+      },
+      "total": {
+        "apostas": 629,
+        "valor": 314500000
+      }
+    },
+    {
+      "id": 88,
+      "nome": "TW 01/08",
+      "status": 1,
+      "inicio": "2026-07-31 11:30:32",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "C",
+        "apostas": 622,
+        "apostadores_unicos": 40,
+        "valor": 311000000,
+        "retorno_simulado": 631832,
+        "multiplicador": 1.2637
+      },
+      "lado2": {
+        "cla": "FURIA",
+        "letra": "D",
+        "apostas": 164,
+        "apostadores_unicos": 43,
+        "valor": 82000000,
+        "retorno_simulado": 2396341,
+        "multiplicador": 4.7927
+      },
+      "total": {
+        "apostas": 786,
+        "valor": 393000000
+      }
+    },
+    {
+      "id": 87,
+      "nome": "TW 01/08",
+      "status": 1,
+      "inicio": "2026-07-31 11:28:31",
+      "vencedor": "TheDevil",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "A",
+        "apostas": 115,
+        "apostadores_unicos": 33,
+        "valor": 57500000,
+        "retorno_simulado": 782608,
+        "multiplicador": 1.5652
+      },
+      "lado2": {
+        "cla": "TheDevil",
+        "letra": "B",
+        "apostas": 65,
+        "apostadores_unicos": 12,
+        "valor": 32500000,
+        "retorno_simulado": 1384615,
+        "multiplicador": 2.7692
+      },
+      "total": {
+        "apostas": 180,
+        "valor": 90000000
+      }
+    },
+    {
+      "id": 86,
+      "nome": "TW 26/07",
+      "status": 1,
+      "inicio": "2026-07-24 22:40:40",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 369,
+        "apostadores_unicos": 62,
+        "valor": 184500000,
+        "retorno_simulado": 803523,
+        "multiplicador": 1.607
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "F",
+        "apostas": 224,
+        "apostadores_unicos": 48,
+        "valor": 112000000,
+        "retorno_simulado": 1323660,
+        "multiplicador": 2.6473
+      },
+      "total": {
+        "apostas": 593,
+        "valor": 296500000
+      }
+    },
+    {
+      "id": 85,
+      "nome": "TW 26/07",
+      "status": 1,
+      "inicio": "2026-07-24 22:40:06",
+      "vencedor": "Akatsuki",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "C",
+        "apostas": 89,
+        "apostadores_unicos": 17,
+        "valor": 44500000,
+        "retorno_simulado": 612359,
+        "multiplicador": 1.2247
+      },
+      "lado2": {
+        "cla": "TheDevil",
+        "letra": "D",
+        "apostas": 20,
+        "apostadores_unicos": 13,
+        "valor": 10000000,
+        "retorno_simulado": 2725000,
+        "multiplicador": 5.45
+      },
+      "total": {
+        "apostas": 109,
+        "valor": 54500000
+      }
+    },
+    {
+      "id": 84,
+      "nome": "TW 25/07",
+      "status": 1,
+      "inicio": "2026-07-24 22:39:02",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "A",
+        "apostas": 133,
+        "apostadores_unicos": 6,
+        "valor": 66500000,
+        "retorno_simulado": 541353,
+        "multiplicador": 1.0827
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "B",
+        "apostas": 11,
+        "apostadores_unicos": 7,
+        "valor": 5500000,
+        "retorno_simulado": 6545454,
+        "multiplicador": 13.0909
+      },
+      "total": {
+        "apostas": 144,
+        "valor": 72000000
+      }
+    },
+    {
+      "id": 83,
+      "nome": "TW 19/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:47:03",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "K",
+        "apostas": 19,
+        "apostadores_unicos": 14,
+        "valor": 9500000,
+        "retorno_simulado": 2394736,
+        "multiplicador": 4.7895
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "L",
+        "apostas": 72,
+        "apostadores_unicos": 18,
+        "valor": 36000000,
+        "retorno_simulado": 631944,
+        "multiplicador": 1.2639
+      },
+      "total": {
+        "apostas": 91,
+        "valor": 45500000
+      }
+    },
+    {
+      "id": 82,
+      "nome": "TW 19/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:45:34",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "I",
+        "apostas": 10,
+        "apostadores_unicos": 8,
+        "valor": 5000000,
+        "retorno_simulado": 1000000,
+        "multiplicador": 2
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "J",
+        "apostas": 10,
+        "apostadores_unicos": 8,
+        "valor": 5000000,
+        "retorno_simulado": 1000000,
+        "multiplicador": 2
+      },
+      "total": {
+        "apostas": 20,
+        "valor": 10000000
+      }
+    },
+    {
+      "id": 81,
+      "nome": "TW 19/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:44:58",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "G",
+        "apostas": 63,
+        "apostadores_unicos": 21,
+        "valor": 31500000,
+        "retorno_simulado": 587301,
+        "multiplicador": 1.1746
+      },
+      "lado2": {
+        "cla": "Strike",
+        "letra": "H",
+        "apostas": 11,
+        "apostadores_unicos": 8,
+        "valor": 5500000,
+        "retorno_simulado": 3363636,
+        "multiplicador": 6.7273
+      },
+      "total": {
+        "apostas": 74,
+        "valor": 37000000
+      }
+    },
+    {
+      "id": 80,
+      "nome": "TW 18/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:42:24",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "E",
+        "apostas": 37,
+        "apostadores_unicos": 8,
+        "valor": 18500000,
+        "retorno_simulado": 729729,
+        "multiplicador": 1.4595
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "F",
+        "apostas": 17,
+        "apostadores_unicos": 12,
+        "valor": 8500000,
+        "retorno_simulado": 1588235,
+        "multiplicador": 3.1765
+      },
+      "total": {
+        "apostas": 54,
+        "valor": 27000000
+      }
+    },
+    {
+      "id": 79,
+      "nome": "TW 18/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:41:44",
+      "vencedor": "Akatsuki",
+      "lado1": {
+        "cla": "TheDevil",
+        "letra": "C",
+        "apostas": 6,
+        "apostadores_unicos": 5,
+        "valor": 3000000,
+        "retorno_simulado": 2000000,
+        "multiplicador": 4
+      },
+      "lado2": {
+        "cla": "Akatsuki",
+        "letra": "D",
+        "apostas": 18,
+        "apostadores_unicos": 2,
+        "valor": 9000000,
+        "retorno_simulado": 666666,
+        "multiplicador": 1.3333
+      },
+      "total": {
+        "apostas": 24,
+        "valor": 12000000
+      }
+    },
+    {
+      "id": 78,
+      "nome": "TW 18/07",
+      "status": 1,
+      "inicio": "2026-07-17 12:41:06",
+      "vencedor": "300",
+      "lado1": {
+        "cla": "300",
+        "letra": "A",
+        "apostas": 42,
+        "apostadores_unicos": 5,
+        "valor": 21000000,
+        "retorno_simulado": 535714,
+        "multiplicador": 1.0714
+      },
+      "lado2": {
+        "cla": "Infinity",
+        "letra": "B",
+        "apostas": 3,
+        "apostadores_unicos": 3,
+        "valor": 1500000,
+        "retorno_simulado": 7500000,
+        "multiplicador": 15
+      },
+      "total": {
+        "apostas": 45,
+        "valor": 22500000
+      }
+    },
+    {
+      "id": 77,
+      "nome": "TW 12/07",
+      "status": 1,
+      "inicio": "2026-07-10 13:48:34",
+      "vencedor": "RenegadoS",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "I",
+        "apostas": 294,
+        "apostadores_unicos": 40,
+        "valor": 147000000,
+        "retorno_simulado": 688775,
+        "multiplicador": 1.3776
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "J",
+        "apostas": 111,
+        "apostadores_unicos": 25,
+        "valor": 55500000,
+        "retorno_simulado": 1824324,
+        "multiplicador": 3.6486
+      },
+      "total": {
+        "apostas": 405,
+        "valor": 202500000
+      }
+    },
+    {
+      "id": 76,
+      "nome": "TW 12/07",
+      "status": 1,
+      "inicio": "2026-07-10 13:47:45",
+      "vencedor": "Akatsuki",
+      "lado1": {
+        "cla": "Akatsuki",
+        "letra": "G",
+        "apostas": 56,
+        "apostadores_unicos": 24,
+        "valor": 28000000,
+        "retorno_simulado": 982142,
+        "multiplicador": 1.9643
+      },
+      "lado2": {
+        "cla": "TheDevil",
+        "letra": "H",
+        "apostas": 54,
+        "apostadores_unicos": 16,
+        "valor": 27000000,
+        "retorno_simulado": 1018518,
+        "multiplicador": 2.037
+      },
+      "total": {
+        "apostas": 110,
+        "valor": 55000000
+      }
+    },
+    {
+      "id": 75,
+      "nome": "TW 12/07",
+      "status": 1,
+      "inicio": "2026-07-10 13:47:22",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 104,
+        "apostadores_unicos": 29,
+        "valor": 52000000,
+        "retorno_simulado": 1413461,
+        "multiplicador": 2.8269
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "F",
+        "apostas": 190,
+        "apostadores_unicos": 30,
+        "valor": 95000000,
+        "retorno_simulado": 773684,
+        "multiplicador": 1.5474
+      },
+      "total": {
+        "apostas": 294,
+        "valor": 147000000
+      }
+    },
+    {
+      "id": 74,
+      "nome": "TW 11/07",
+      "status": 1,
+      "inicio": "2026-07-10 13:46:27",
+      "vencedor": "300",
+      "lado1": {
+        "cla": "300",
+        "letra": "C",
+        "apostas": 104,
+        "apostadores_unicos": 20,
+        "valor": 52000000,
+        "retorno_simulado": 668269,
+        "multiplicador": 1.3365
+      },
+      "lado2": {
+        "cla": "Infinity",
+        "letra": "D",
+        "apostas": 35,
+        "apostadores_unicos": 18,
+        "valor": 17500000,
+        "retorno_simulado": 1985714,
+        "multiplicador": 3.9714
+      },
+      "total": {
+        "apostas": 139,
+        "valor": 69500000
+      }
+    },
+    {
+      "id": 73,
+      "nome": "APOSTA 11/07",
+      "status": 1,
+      "inicio": "2026-07-10 13:44:35",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "A",
+        "apostas": 61,
+        "apostadores_unicos": 24,
+        "valor": 30500000,
+        "retorno_simulado": 713114,
+        "multiplicador": 1.4262
+      },
+      "lado2": {
+        "cla": "Strike",
+        "letra": "B",
+        "apostas": 26,
+        "apostadores_unicos": 12,
+        "valor": 13000000,
+        "retorno_simulado": 1673076,
+        "multiplicador": 3.3462
+      },
+      "total": {
+        "apostas": 87,
+        "valor": 43500000
+      }
+    },
+    {
+      "id": 72,
+      "nome": "TW 05/07",
+      "status": 1,
+      "inicio": "2026-07-02 21:17:03",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "G",
+        "apostas": 21,
+        "apostadores_unicos": 11,
+        "valor": 10500000,
+        "retorno_simulado": 690476,
+        "multiplicador": 1.381
+      },
+      "lado2": {
+        "cla": "FURIA",
+        "letra": "H",
+        "apostas": 8,
+        "apostadores_unicos": 5,
+        "valor": 4000000,
+        "retorno_simulado": 1812500,
+        "multiplicador": 3.625
+      },
+      "total": {
+        "apostas": 29,
+        "valor": 14500000
+      }
+    },
+    {
+      "id": 71,
+      "nome": "TW 05/07",
+      "status": 1,
+      "inicio": "2026-07-02 21:16:39",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "E",
+        "apostas": 29,
+        "apostadores_unicos": 6,
+        "valor": 14500000,
+        "retorno_simulado": 568965,
+        "multiplicador": 1.1379
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "F",
+        "apostas": 4,
+        "apostadores_unicos": 3,
+        "valor": 2000000,
+        "retorno_simulado": 4125000,
+        "multiplicador": 8.25
+      },
+      "total": {
+        "apostas": 33,
+        "valor": 16500000
+      }
+    },
+    {
+      "id": 70,
+      "nome": "TW 05/07",
+      "status": 1,
+      "inicio": "2026-07-02 21:15:56",
+      "vencedor": "TheDevil",
+      "lado1": {
+        "cla": "TheDevil",
+        "letra": "C",
+        "apostas": 26,
+        "apostadores_unicos": 8,
+        "valor": 13000000,
+        "retorno_simulado": 557692,
+        "multiplicador": 1.1154
+      },
+      "lado2": {
+        "cla": "RedArmy",
+        "letra": "D",
+        "apostas": 3,
+        "apostadores_unicos": 3,
+        "valor": 1500000,
+        "retorno_simulado": 4833333,
+        "multiplicador": 9.6667
+      },
+      "total": {
+        "apostas": 29,
+        "valor": 14500000
+      }
+    },
+    {
+      "id": 69,
+      "nome": "TW 04/07",
+      "status": 1,
+      "inicio": "2026-07-02 21:12:48",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "A",
+        "apostas": 21,
+        "apostadores_unicos": 14,
+        "valor": 10500000,
+        "retorno_simulado": 666666,
+        "multiplicador": 1.3333
+      },
+      "lado2": {
+        "cla": "Strike",
+        "letra": "B",
+        "apostas": 7,
+        "apostadores_unicos": 6,
+        "valor": 3500000,
+        "retorno_simulado": 2000000,
+        "multiplicador": 4
+      },
+      "total": {
+        "apostas": 28,
+        "valor": 14000000
+      }
+    },
+    {
+      "id": 68,
+      "nome": "TW 28/06",
+      "status": 1,
+      "inicio": "2026-06-26 11:48:36",
+      "vencedor": "FURIA",
+      "lado1": {
+        "cla": "300",
+        "letra": "I",
+        "apostas": 70,
+        "apostadores_unicos": 20,
+        "valor": 35000000,
+        "retorno_simulado": 721428,
+        "multiplicador": 1.4429
+      },
+      "lado2": {
+        "cla": "FURIA",
+        "letra": "J",
+        "apostas": 31,
+        "apostadores_unicos": 17,
+        "valor": 15500000,
+        "retorno_simulado": 1629032,
+        "multiplicador": 3.2581
+      },
+      "total": {
+        "apostas": 101,
+        "valor": 50500000
+      }
+    },
+    {
+      "id": 67,
+      "nome": "TW 28/06",
+      "status": 1,
+      "inicio": "2026-06-26 11:46:03",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "G",
+        "apostas": 19,
+        "apostadores_unicos": 12,
+        "valor": 9500000,
+        "retorno_simulado": 710526,
+        "multiplicador": 1.4211
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "H",
+        "apostas": 8,
+        "apostadores_unicos": 6,
+        "valor": 4000000,
+        "retorno_simulado": 1687500,
+        "multiplicador": 3.375
+      },
+      "total": {
+        "apostas": 27,
+        "valor": 13500000
+      }
+    },
+    {
+      "id": 66,
+      "nome": "TW 28/06",
+      "status": 1,
+      "inicio": "2026-06-26 11:45:01",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "E",
+        "apostas": 63,
+        "apostadores_unicos": 24,
+        "valor": 31500000,
+        "retorno_simulado": 658730,
+        "multiplicador": 1.3175
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "F",
+        "apostas": 20,
+        "apostadores_unicos": 10,
+        "valor": 10000000,
+        "retorno_simulado": 2075000,
+        "multiplicador": 4.15
+      },
+      "total": {
+        "apostas": 83,
+        "valor": 41500000
+      }
+    },
+    {
+      "id": 65,
+      "nome": "TW 28/06",
+      "status": 1,
+      "inicio": "2026-06-26 11:44:12",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "Strike",
+        "letra": "C",
+        "apostas": 113,
+        "apostadores_unicos": 19,
+        "valor": 56500000,
+        "retorno_simulado": 1314159,
+        "multiplicador": 2.6283
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "D",
+        "apostas": 184,
+        "apostadores_unicos": 24,
+        "valor": 92000000,
+        "retorno_simulado": 807065,
+        "multiplicador": 1.6141
+      },
+      "total": {
+        "apostas": 297,
+        "valor": 148500000
+      }
+    },
+    {
+      "id": 64,
+      "nome": "TW 27/06",
+      "status": 1,
+      "inicio": "2026-06-26 11:43:04",
+      "vencedor": "TheDevil",
+      "lado1": {
+        "cla": "TheDevil",
+        "letra": "A",
+        "apostas": 25,
+        "apostadores_unicos": 9,
+        "valor": 12500000,
+        "retorno_simulado": 500000,
+        "multiplicador": 1
+      },
+      "lado2": {
+        "cla": "RedArmy",
+        "letra": "B",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 25,
+        "valor": 12500000
+      }
+    },
+    {
+      "id": 63,
+      "nome": "TW 21/06",
+      "status": 1,
+      "inicio": "2026-06-21 12:17:34",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "RenegadoS",
+        "letra": "C",
+        "apostas": 9,
+        "apostadores_unicos": 8,
+        "valor": 4500000,
+        "retorno_simulado": 2055555,
+        "multiplicador": 4.1111
+      },
+      "lado2": {
+        "cla": "Infinity",
+        "letra": "D",
+        "apostas": 28,
+        "apostadores_unicos": 10,
+        "valor": 14000000,
+        "retorno_simulado": 660714,
+        "multiplicador": 1.3214
+      },
+      "total": {
+        "apostas": 37,
+        "valor": 18500000
+      }
+    },
+    {
+      "id": 62,
+      "nome": "TW 21/06",
+      "status": 1,
+      "inicio": "2026-06-21 12:16:55",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "A",
+        "apostas": 230,
+        "apostadores_unicos": 28,
+        "valor": 115000000,
+        "retorno_simulado": 639130,
+        "multiplicador": 1.2783
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "B",
+        "apostas": 64,
+        "apostadores_unicos": 27,
+        "valor": 32000000,
+        "retorno_simulado": 2296875,
+        "multiplicador": 4.5938
+      },
+      "total": {
+        "apostas": 294,
+        "valor": 147000000
+      }
+    },
+    {
+      "id": 61,
+      "nome": "TW 21/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:46:59",
+      "vencedor": "RedArmy",
+      "lado1": {
+        "cla": "RedArmy",
+        "letra": "K",
+        "apostas": 53,
+        "apostadores_unicos": 25,
+        "valor": 26500000,
+        "retorno_simulado": 594339,
+        "multiplicador": 1.1887
+      },
+      "lado2": {
+        "cla": "IMPERIUM",
+        "letra": "L",
+        "apostas": 10,
+        "apostadores_unicos": 8,
+        "valor": 5000000,
+        "retorno_simulado": 3150000,
+        "multiplicador": 6.3
+      },
+      "total": {
+        "apostas": 63,
+        "valor": 31500000
+      }
+    },
+    {
+      "id": 60,
+      "nome": "TW 21/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:45:56",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "Strike",
+        "letra": "I",
+        "apostas": 106,
+        "apostadores_unicos": 39,
+        "valor": 53000000,
+        "retorno_simulado": 622641,
+        "multiplicador": 1.2453
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "J",
+        "apostas": 26,
+        "apostadores_unicos": 16,
+        "valor": 13000000,
+        "retorno_simulado": 2538461,
+        "multiplicador": 5.0769
+      },
+      "total": {
+        "apostas": 132,
+        "valor": 66000000
+      }
+    },
+    {
+      "id": 59,
+      "nome": "TW 20/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:45:26",
+      "vencedor": "FURIA",
+      "lado1": {
+        "cla": "FURIA",
+        "letra": "G",
+        "apostas": 51,
+        "apostadores_unicos": 24,
+        "valor": 25500000,
+        "retorno_simulado": 941176,
+        "multiplicador": 1.8824
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "H",
+        "apostas": 45,
+        "apostadores_unicos": 24,
+        "valor": 22500000,
+        "retorno_simulado": 1066666,
+        "multiplicador": 2.1333
+      },
+      "total": {
+        "apostas": 96,
+        "valor": 48000000
+      }
+    },
+    {
+      "id": 58,
+      "nome": "TW 20/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:43:54",
+      "vencedor": "300",
+      "lado1": {
+        "cla": "300",
+        "letra": "E",
+        "apostas": 80,
+        "apostadores_unicos": 26,
+        "valor": 40000000,
+        "retorno_simulado": 637500,
+        "multiplicador": 1.275
+      },
+      "lado2": {
+        "cla": "Akatsuki",
+        "letra": "F",
+        "apostas": 22,
+        "apostadores_unicos": 10,
+        "valor": 11000000,
+        "retorno_simulado": 2318181,
+        "multiplicador": 4.6364
+      },
+      "total": {
+        "apostas": 102,
+        "valor": 51000000
+      }
+    },
+    {
+      "id": 57,
+      "nome": "TW 20/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:43:03",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "C",
+        "apostas": 71,
+        "apostadores_unicos": 22,
+        "valor": 35500000,
+        "retorno_simulado": 549295,
+        "multiplicador": 1.0986
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "D",
+        "apostas": 7,
+        "apostadores_unicos": 5,
+        "valor": 3500000,
+        "retorno_simulado": 5571428,
+        "multiplicador": 11.1429
+      },
+      "total": {
+        "apostas": 78,
+        "valor": 39000000
+      }
+    },
+    {
+      "id": 56,
+      "nome": "TW 20/06",
+      "status": 1,
+      "inicio": "2026-06-19 10:42:22",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "A",
+        "apostas": 24,
+        "apostadores_unicos": 9,
+        "valor": 12000000,
+        "retorno_simulado": 625000,
+        "multiplicador": 1.25
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "B",
+        "apostas": 6,
+        "apostadores_unicos": 3,
+        "valor": 3000000,
+        "retorno_simulado": 2500000,
+        "multiplicador": 5
+      },
+      "total": {
+        "apostas": 30,
+        "valor": 15000000
+      }
+    },
+    {
+      "id": 55,
+      "nome": "TW 07/06",
+      "status": 1,
+      "inicio": "2026-06-05 22:05:49",
+      "vencedor": "Infinity",
+      "lado1": {
+        "cla": "Infinity",
+        "letra": "G",
+        "apostas": 130,
+        "apostadores_unicos": 30,
+        "valor": 65000000,
+        "retorno_simulado": 773076,
+        "multiplicador": 1.5462
+      },
+      "lado2": {
+        "cla": "RenegadoS",
+        "letra": "H",
+        "apostas": 71,
+        "apostadores_unicos": 28,
+        "valor": 35500000,
+        "retorno_simulado": 1415492,
+        "multiplicador": 2.831
+      },
+      "total": {
+        "apostas": 201,
+        "valor": 100500000
+      }
+    },
+    {
+      "id": 54,
+      "nome": "TW 07/06",
+      "status": 1,
+      "inicio": "2026-06-05 22:05:12",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "E",
+        "apostas": 132,
+        "apostadores_unicos": 43,
+        "valor": 66000000,
+        "retorno_simulado": 617424,
+        "multiplicador": 1.2348
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "F",
+        "apostas": 31,
+        "apostadores_unicos": 18,
+        "valor": 15500000,
+        "retorno_simulado": 2629032,
+        "multiplicador": 5.2581
+      },
+      "total": {
+        "apostas": 163,
+        "valor": 81500000
+      }
+    },
+    {
+      "id": 53,
+      "nome": "TW 06/06",
+      "status": 1,
+      "inicio": "2026-06-05 22:04:24",
+      "vencedor": "TheDevil",
+      "lado1": {
+        "cla": "TheDevil",
+        "letra": "C",
+        "apostas": 22,
+        "apostadores_unicos": 10,
+        "valor": 11000000,
+        "retorno_simulado": 909090,
+        "multiplicador": 1.8182
+      },
+      "lado2": {
+        "cla": "RedArmy",
+        "letra": "D",
+        "apostas": 18,
+        "apostadores_unicos": 10,
+        "valor": 9000000,
+        "retorno_simulado": 1111111,
+        "multiplicador": 2.2222
+      },
+      "total": {
+        "apostas": 40,
+        "valor": 20000000
+      }
+    },
+    {
+      "id": 52,
+      "nome": "TW 06/06",
+      "status": 1,
+      "inicio": "2026-06-05 22:03:47",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "A",
+        "apostas": 114,
+        "apostadores_unicos": 29,
+        "valor": 57000000,
+        "retorno_simulado": 815789,
+        "multiplicador": 1.6316
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "B",
+        "apostas": 72,
+        "apostadores_unicos": 24,
+        "valor": 36000000,
+        "retorno_simulado": 1291666,
+        "multiplicador": 2.5833
+      },
+      "total": {
+        "apostas": 186,
+        "valor": 93000000
+      }
+    },
+    {
+      "id": 51,
+      "nome": "TW 03/05",
+      "status": 1,
+      "inicio": "2026-05-01 12:13:27",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "220V",
+        "letra": "E",
+        "apostas": 14,
+        "apostadores_unicos": 12,
+        "valor": 7000000,
+        "retorno_simulado": 2535714,
+        "multiplicador": 5.0714
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "F",
+        "apostas": 57,
+        "apostadores_unicos": 22,
+        "valor": 28500000,
+        "retorno_simulado": 622807,
+        "multiplicador": 1.2456
+      },
+      "total": {
+        "apostas": 71,
+        "valor": 35500000
+      }
+    },
+    {
+      "id": 50,
+      "nome": "TW 03/05",
+      "status": 1,
+      "inicio": "2026-05-01 12:12:43",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "C",
+        "apostas": 151,
+        "apostadores_unicos": 41,
+        "valor": 75500000,
+        "retorno_simulado": 539735,
+        "multiplicador": 1.0795
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "D",
+        "apostas": 12,
+        "apostadores_unicos": 8,
+        "valor": 6000000,
+        "retorno_simulado": 6791666,
+        "multiplicador": 13.5833
+      },
+      "total": {
+        "apostas": 163,
+        "valor": 81500000
+      }
+    },
+    {
+      "id": 49,
+      "nome": "TW 03/05",
+      "status": 1,
+      "inicio": "2026-05-01 12:11:46",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "A",
+        "apostas": 89,
+        "apostadores_unicos": 34,
+        "valor": 44500000,
+        "retorno_simulado": 955056,
+        "multiplicador": 1.9101
+      },
+      "lado2": {
+        "cla": "TheChosen",
+        "letra": "B",
+        "apostas": 81,
+        "apostadores_unicos": 36,
+        "valor": 40500000,
+        "retorno_simulado": 1049382,
+        "multiplicador": 2.0988
+      },
+      "total": {
+        "apostas": 170,
+        "valor": 85000000
+      }
+    },
+    {
+      "id": 48,
+      "nome": "TW 26/04",
+      "status": 1,
+      "inicio": "2026-04-24 19:51:15",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "Wanted",
+        "letra": "I",
+        "apostas": 55,
+        "apostadores_unicos": 15,
+        "valor": 27500000,
+        "retorno_simulado": 727272,
+        "multiplicador": 1.4545
+      },
+      "lado2": {
+        "cla": "220V",
+        "letra": "J",
+        "apostas": 25,
+        "apostadores_unicos": 16,
+        "valor": 12500000,
+        "retorno_simulado": 1600000,
+        "multiplicador": 3.2
+      },
+      "total": {
+        "apostas": 80,
+        "valor": 40000000
+      }
+    },
+    {
+      "id": 47,
+      "nome": "TW 26/04",
+      "status": 1,
+      "inicio": "2026-04-24 19:50:40",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "G",
+        "apostas": 81,
+        "apostadores_unicos": 20,
+        "valor": 40500000,
+        "retorno_simulado": 753086,
+        "multiplicador": 1.5062
+      },
+      "lado2": {
+        "cla": "TheChosen",
+        "letra": "H",
+        "apostas": 41,
+        "apostadores_unicos": 19,
+        "valor": 20500000,
+        "retorno_simulado": 1487804,
+        "multiplicador": 2.9756
+      },
+      "total": {
+        "apostas": 122,
+        "valor": 61000000
+      }
+    },
+    {
+      "id": 46,
+      "nome": "TW 25/04",
+      "status": 1,
+      "inicio": "2026-04-24 19:50:06",
+      "vencedor": "Wanted",
+      "lado1": {
+        "cla": "220V",
+        "letra": "E",
+        "apostas": 18,
+        "apostadores_unicos": 8,
+        "valor": 9000000,
+        "retorno_simulado": 944444,
+        "multiplicador": 1.8889
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "F",
+        "apostas": 16,
+        "apostadores_unicos": 7,
+        "valor": 8000000,
+        "retorno_simulado": 1062500,
+        "multiplicador": 2.125
+      },
+      "total": {
+        "apostas": 34,
+        "valor": 17000000
+      }
+    },
+    {
+      "id": 45,
+      "nome": "TW 25/04",
+      "status": 1,
+      "inicio": "2026-04-24 19:49:33",
+      "vencedor": "TheChosen",
+      "lado1": {
+        "cla": "TheChosen",
+        "letra": "C",
+        "apostas": 1,
+        "apostadores_unicos": 1,
+        "valor": 500000,
+        "retorno_simulado": 500000,
+        "multiplicador": 1
+      },
+      "lado2": {
+        "cla": "SERTAO",
+        "letra": "D",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 1,
+        "valor": 500000
+      }
+    },
+    {
+      "id": 44,
+      "nome": "TW 25/04",
+      "status": 1,
+      "inicio": "2026-04-24 19:48:59",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "A",
+        "apostas": 13,
+        "apostadores_unicos": 7,
+        "valor": 6500000,
+        "retorno_simulado": 500000,
+        "multiplicador": 1
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "B",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 13,
+        "valor": 6500000
+      }
+    },
+    {
+      "id": 43,
+      "nome": "TW 19/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:37:26",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "DarkHawks",
+        "letra": "K",
+        "apostas": 6,
+        "apostadores_unicos": 6,
+        "valor": 3000000,
+        "retorno_simulado": 6083333,
+        "multiplicador": 12.1667
+      },
+      "lado2": {
+        "cla": "220V",
+        "letra": "L",
+        "apostas": 67,
+        "apostadores_unicos": 25,
+        "valor": 33500000,
+        "retorno_simulado": 544776,
+        "multiplicador": 1.0896
+      },
+      "total": {
+        "apostas": 73,
+        "valor": 36500000
+      }
+    },
+    {
+      "id": 42,
+      "nome": "TW 19/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:36:32",
+      "vencedor": "TheChosen",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "I",
+        "apostas": 50,
+        "apostadores_unicos": 31,
+        "valor": 25000000,
+        "retorno_simulado": 1410000,
+        "multiplicador": 2.82
+      },
+      "lado2": {
+        "cla": "TheChosen",
+        "letra": "J",
+        "apostas": 91,
+        "apostadores_unicos": 28,
+        "valor": 45500000,
+        "retorno_simulado": 774725,
+        "multiplicador": 1.5495
+      },
+      "total": {
+        "apostas": 141,
+        "valor": 70500000
+      }
+    },
+    {
+      "id": 41,
+      "nome": "TW 19/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:35:55",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "G",
+        "apostas": 114,
+        "apostadores_unicos": 29,
+        "valor": 57000000,
+        "retorno_simulado": 561403,
+        "multiplicador": 1.1228
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "H",
+        "apostas": 14,
+        "apostadores_unicos": 11,
+        "valor": 7000000,
+        "retorno_simulado": 4571428,
+        "multiplicador": 9.1429
+      },
+      "total": {
+        "apostas": 128,
+        "valor": 64000000
+      }
+    },
+    {
+      "id": 40,
+      "nome": "TW 18/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:35:16",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "E",
+        "apostas": 13,
+        "apostadores_unicos": 9,
+        "valor": 6500000,
+        "retorno_simulado": 2653846,
+        "multiplicador": 5.3077
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "F",
+        "apostas": 56,
+        "apostadores_unicos": 21,
+        "valor": 28000000,
+        "retorno_simulado": 616071,
+        "multiplicador": 1.2321
+      },
+      "total": {
+        "apostas": 69,
+        "valor": 34500000
+      }
+    },
+    {
+      "id": 39,
+      "nome": "TW 18/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:34:24",
+      "vencedor": "TheChosen",
+      "lado1": {
+        "cla": "TheChosen",
+        "letra": "C",
+        "apostas": 61,
+        "apostadores_unicos": 28,
+        "valor": 30500000,
+        "retorno_simulado": 1549180,
+        "multiplicador": 3.0984
+      },
+      "lado2": {
+        "cla": "SERTAO",
+        "letra": "D",
+        "apostas": 128,
+        "apostadores_unicos": 20,
+        "valor": 64000000,
+        "retorno_simulado": 738281,
+        "multiplicador": 1.4766
+      },
+      "total": {
+        "apostas": 189,
+        "valor": 94500000
+      }
+    },
+    {
+      "id": 38,
+      "nome": "TW 18/04",
+      "status": 1,
+      "inicio": "2026-04-16 22:32:40",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "220V",
+        "letra": "A",
+        "apostas": 31,
+        "apostadores_unicos": 17,
+        "valor": 15500000,
+        "retorno_simulado": 693548,
+        "multiplicador": 1.3871
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "B",
+        "apostas": 12,
+        "apostadores_unicos": 7,
+        "valor": 6000000,
+        "retorno_simulado": 1791666,
+        "multiplicador": 3.5833
+      },
+      "total": {
+        "apostas": 43,
+        "valor": 21500000
+      }
+    },
+    {
+      "id": 37,
+      "nome": "TW 12/04",
+      "status": 1,
+      "inicio": "2026-04-09 22:43:59",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "G",
+        "apostas": 104,
+        "apostadores_unicos": 24,
+        "valor": 52000000,
+        "retorno_simulado": 538461,
+        "multiplicador": 1.0769
+      },
+      "lado2": {
+        "cla": "Wanted",
+        "letra": "H",
+        "apostas": 8,
+        "apostadores_unicos": 6,
+        "valor": 4000000,
+        "retorno_simulado": 7000000,
+        "multiplicador": 14
+      },
+      "total": {
+        "apostas": 112,
+        "valor": 56000000
+      }
+    },
+    {
+      "id": 36,
+      "nome": "TW 12/04",
+      "status": 1,
+      "inicio": "2026-04-09 22:41:50",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "DarkHawks",
+        "letra": "E",
+        "apostas": 10,
+        "apostadores_unicos": 6,
+        "valor": 5000000,
+        "retorno_simulado": 3200000,
+        "multiplicador": 6.4
+      },
+      "lado2": {
+        "cla": "220V",
+        "letra": "F",
+        "apostas": 54,
+        "apostadores_unicos": 15,
+        "valor": 27000000,
+        "retorno_simulado": 592592,
+        "multiplicador": 1.1852
+      },
+      "total": {
+        "apostas": 64,
+        "valor": 32000000
+      }
+    },
+    {
+      "id": 35,
+      "nome": "TW 12/04",
+      "status": 1,
+      "inicio": "2026-04-09 22:40:45",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "C",
+        "apostas": 143,
+        "apostadores_unicos": 18,
+        "valor": 71500000,
+        "retorno_simulado": 615384,
+        "multiplicador": 1.2308
+      },
+      "lado2": {
+        "cla": "TheChosen",
+        "letra": "D",
+        "apostas": 33,
+        "apostadores_unicos": 21,
+        "valor": 16500000,
+        "retorno_simulado": 2666666,
+        "multiplicador": 5.3333
+      },
+      "total": {
+        "apostas": 176,
+        "valor": 88000000
+      }
+    },
+    {
+      "id": 34,
+      "nome": "TW 11/04",
+      "status": 1,
+      "inicio": "2026-04-09 22:39:56",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "TheChosen",
+        "letra": "A",
+        "apostas": 67,
+        "apostadores_unicos": 29,
+        "valor": 33500000,
+        "retorno_simulado": 1231343,
+        "multiplicador": 2.4627
+      },
+      "lado2": {
+        "cla": "SERTAO",
+        "letra": "B",
+        "apostas": 98,
+        "apostadores_unicos": 19,
+        "valor": 49000000,
+        "retorno_simulado": 841836,
+        "multiplicador": 1.6837
+      },
+      "total": {
+        "apostas": 165,
+        "valor": 82500000
+      }
+    },
+    {
+      "id": 33,
+      "nome": "TW 05/04",
+      "status": 1,
+      "inicio": "2026-04-03 16:04:12",
+      "vencedor": "TheGlory",
+      "lado1": {
+        "cla": "220V",
+        "letra": "A",
+        "apostas": 100,
+        "apostadores_unicos": 30,
+        "valor": 50000000,
+        "retorno_simulado": 785000,
+        "multiplicador": 1.57
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "B",
+        "apostas": 57,
+        "apostadores_unicos": 26,
+        "valor": 28500000,
+        "retorno_simulado": 1377192,
+        "multiplicador": 2.7544
+      },
+      "total": {
+        "apostas": 157,
+        "valor": 78500000
+      }
+    },
+    {
+      "id": 32,
+      "nome": "TW 22/03",
+      "status": 1,
+      "inicio": "2026-03-20 02:09:55",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "C",
+        "apostas": 118,
+        "apostadores_unicos": 30,
+        "valor": 59000000,
+        "retorno_simulado": 572033,
+        "multiplicador": 1.1441
+      },
+      "lado2": {
+        "cla": "TheGlory",
+        "letra": "D",
+        "apostas": 17,
+        "apostadores_unicos": 10,
+        "valor": 8500000,
+        "retorno_simulado": 3970588,
+        "multiplicador": 7.9412
+      },
+      "total": {
+        "apostas": 135,
+        "valor": 67500000
+      }
+    },
+    {
+      "id": 31,
+      "nome": "TW 22/03",
+      "status": 1,
+      "inicio": "2026-03-20 02:07:40",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "A",
+        "apostas": 153,
+        "apostadores_unicos": 31,
+        "valor": 76500000,
+        "retorno_simulado": 516339,
+        "multiplicador": 1.0327
+      },
+      "lado2": {
+        "cla": "New|Age",
+        "letra": "B",
+        "apostas": 5,
+        "apostadores_unicos": 5,
+        "valor": 2500000,
+        "retorno_simulado": 15800000,
+        "multiplicador": 31.6
+      },
+      "total": {
+        "apostas": 158,
+        "valor": 79000000
+      }
+    },
+    {
+      "id": 30,
+      "nome": "TW 15/03",
+      "status": 1,
+      "inicio": "2026-03-12 19:42:30",
+      "vencedor": "DarkHawks",
+      "lado1": {
+        "cla": "PunisherS",
+        "letra": "G",
+        "apostas": 59,
+        "apostadores_unicos": 21,
+        "valor": 29500000,
+        "retorno_simulado": 1084745,
+        "multiplicador": 2.1695
+      },
+      "lado2": {
+        "cla": "DarkHawks",
+        "letra": "H",
+        "apostas": 69,
+        "apostadores_unicos": 26,
+        "valor": 34500000,
+        "retorno_simulado": 927536,
+        "multiplicador": 1.8551
+      },
+      "total": {
+        "apostas": 128,
+        "valor": 64000000
+      }
+    },
+    {
+      "id": 29,
+      "nome": "TW 15/03",
+      "status": 1,
+      "inicio": "2026-03-12 19:41:43",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 81,
+        "apostadores_unicos": 24,
+        "valor": 40500000,
+        "retorno_simulado": 617283,
+        "multiplicador": 1.2346
+      },
+      "lado2": {
+        "cla": "RAGNAR0K",
+        "letra": "F",
+        "apostas": 19,
+        "apostadores_unicos": 13,
+        "valor": 9500000,
+        "retorno_simulado": 2631578,
+        "multiplicador": 5.2632
+      },
+      "total": {
+        "apostas": 100,
+        "valor": 50000000
+      }
+    },
+    {
+      "id": 26,
+      "nome": "TW 08/03",
+      "status": 1,
+      "inicio": "2026-03-06 01:49:26",
+      "vencedor": "DarkHawks",
+      "lado1": {
+        "cla": "PunisherS",
+        "letra": "G",
+        "apostas": 41,
+        "apostadores_unicos": 13,
+        "valor": 20500000,
+        "retorno_simulado": 573170,
+        "multiplicador": 1.1463
+      },
+      "lado2": {
+        "cla": "DarkHawks",
+        "letra": "H",
+        "apostas": 6,
+        "apostadores_unicos": 6,
+        "valor": 3000000,
+        "retorno_simulado": 3916666,
+        "multiplicador": 7.8333
+      },
+      "total": {
+        "apostas": 47,
+        "valor": 23500000
+      }
+    },
+    {
+      "id": 25,
+      "nome": "TW 08/03",
+      "status": 1,
+      "inicio": "2026-03-06 01:48:34",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 62,
+        "apostadores_unicos": 19,
+        "valor": 31000000,
+        "retorno_simulado": 596774,
+        "multiplicador": 1.1935
+      },
+      "lado2": {
+        "cla": "RAGNAR0K",
+        "letra": "F",
+        "apostas": 12,
+        "apostadores_unicos": 9,
+        "valor": 6000000,
+        "retorno_simulado": 3083333,
+        "multiplicador": 6.1667
+      },
+      "total": {
+        "apostas": 74,
+        "valor": 37000000
+      }
+    },
+    {
+      "id": 24,
+      "nome": "TW 07/03",
+      "status": 1,
+      "inicio": "2026-03-06 01:47:21",
+      "vencedor": "PunisherS",
+      "lado1": {
+        "cla": "DarkHawks",
+        "letra": "C",
+        "apostas": 9,
+        "apostadores_unicos": 8,
+        "valor": 4500000,
+        "retorno_simulado": 777777,
+        "multiplicador": 1.5556
+      },
+      "lado2": {
+        "cla": "PunisherS",
+        "letra": "D",
+        "apostas": 5,
+        "apostadores_unicos": 4,
+        "valor": 2500000,
+        "retorno_simulado": 1400000,
+        "multiplicador": 2.8
+      },
+      "total": {
+        "apostas": 14,
+        "valor": 7000000
+      }
+    },
+    {
+      "id": 23,
+      "nome": "TW 07/03",
+      "status": 1,
+      "inicio": "2026-03-06 01:46:35",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "A",
+        "apostas": 12,
+        "apostadores_unicos": 6,
+        "valor": 6000000,
+        "retorno_simulado": 541666,
+        "multiplicador": 1.0833
+      },
+      "lado2": {
+        "cla": "SIMIOS",
+        "letra": "B",
+        "apostas": 1,
+        "apostadores_unicos": 1,
+        "valor": 500000,
+        "retorno_simulado": 6500000,
+        "multiplicador": 13
+      },
+      "total": {
+        "apostas": 13,
+        "valor": 6500000
+      }
+    },
+    {
+      "id": 22,
+      "nome": "01/03",
+      "status": 1,
+      "inicio": "2026-02-27 23:31:43",
+      "vencedor": "DarkHawks",
+      "lado1": {
+        "cla": "PunisherS",
+        "letra": "K",
+        "apostas": 17,
+        "apostadores_unicos": 10,
+        "valor": 8500000,
+        "retorno_simulado": 2058823,
+        "multiplicador": 4.1176
+      },
+      "lado2": {
+        "cla": "DarkHawks",
+        "letra": "L",
+        "apostas": 53,
+        "apostadores_unicos": 14,
+        "valor": 26500000,
+        "retorno_simulado": 660377,
+        "multiplicador": 1.3208
+      },
+      "total": {
+        "apostas": 70,
+        "valor": 35000000
+      }
+    },
+    {
+      "id": 21,
+      "nome": "TW 01/03",
+      "status": 1,
+      "inicio": "2026-02-27 23:26:58",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "SIMIOS",
+        "letra": "I",
+        "apostas": 15,
+        "apostadores_unicos": 10,
+        "valor": 7500000,
+        "retorno_simulado": 7000000,
+        "multiplicador": 14
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "J",
+        "apostas": 195,
+        "apostadores_unicos": 36,
+        "valor": 97500000,
+        "retorno_simulado": 538461,
+        "multiplicador": 1.0769
+      },
+      "total": {
+        "apostas": 210,
+        "valor": 105000000
+      }
+    },
+    {
+      "id": 20,
+      "nome": "TW 01/03",
+      "status": 1,
+      "inicio": "2026-02-27 23:25:22",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "G",
+        "apostas": 46,
+        "apostadores_unicos": 20,
+        "valor": 23000000,
+        "retorno_simulado": 576086,
+        "multiplicador": 1.1522
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "H",
+        "apostas": 7,
+        "apostadores_unicos": 6,
+        "valor": 3500000,
+        "retorno_simulado": 3785714,
+        "multiplicador": 7.5714
+      },
+      "total": {
+        "apostas": 53,
+        "valor": 26500000
+      }
+    },
+    {
+      "id": 19,
+      "nome": "TW 28/02",
+      "status": 1,
+      "inicio": "2026-02-27 23:23:42",
+      "vencedor": "TRIBO",
+      "lado1": {
+        "cla": "TRIBO",
+        "letra": "E",
+        "apostas": 157,
+        "apostadores_unicos": 40,
+        "valor": 78500000,
+        "retorno_simulado": 713375,
+        "multiplicador": 1.4268
+      },
+      "lado2": {
+        "cla": "SIMIOS",
+        "letra": "F",
+        "apostas": 67,
+        "apostadores_unicos": 13,
+        "valor": 33500000,
+        "retorno_simulado": 1671641,
+        "multiplicador": 3.3433
+      },
+      "total": {
+        "apostas": 224,
+        "valor": 112000000
+      }
+    },
+    {
+      "id": 14,
+      "nome": "TW 22/02",
+      "status": 1,
+      "inicio": "2026-02-20 00:22:53",
+      "vencedor": "PunisherS",
+      "lado1": {
+        "cla": "DarkHawks",
+        "letra": "E",
+        "apostas": 25,
+        "apostadores_unicos": 19,
+        "valor": 12500000,
+        "retorno_simulado": 1980000,
+        "multiplicador": 3.96
+      },
+      "lado2": {
+        "cla": "PunisherS",
+        "letra": "F",
+        "apostas": 74,
+        "apostadores_unicos": 23,
+        "valor": 37000000,
+        "retorno_simulado": 668918,
+        "multiplicador": 1.3378
+      },
+      "total": {
+        "apostas": 99,
+        "valor": 49500000
+      }
+    },
+    {
+      "id": 13,
+      "nome": "TW 22/02",
+      "status": 1,
+      "inicio": "2026-02-20 00:21:40",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "C",
+        "apostas": 122,
+        "apostadores_unicos": 27,
+        "valor": 61000000,
+        "retorno_simulado": 545081,
+        "multiplicador": 1.0902
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "D",
+        "apostas": 11,
+        "apostadores_unicos": 6,
+        "valor": 5500000,
+        "retorno_simulado": 6045454,
+        "multiplicador": 12.0909
+      },
+      "total": {
+        "apostas": 133,
+        "valor": 66500000
+      }
+    },
+    {
+      "id": 12,
+      "nome": "TW 21/02",
+      "status": 1,
+      "inicio": "2026-02-20 00:19:05",
+      "vencedor": "TheGlory",
+      "lado1": {
+        "cla": "TheGlory",
+        "letra": "A",
+        "apostas": 27,
+        "apostadores_unicos": 16,
+        "valor": 13500000,
+        "retorno_simulado": 518518,
+        "multiplicador": 1.037
+      },
+      "lado2": {
+        "cla": "ArsenaL",
+        "letra": "B",
+        "apostas": 1,
+        "apostadores_unicos": 1,
+        "valor": 500000,
+        "retorno_simulado": 14000000,
+        "multiplicador": 28
+      },
+      "total": {
+        "apostas": 28,
+        "valor": 14000000
+      }
+    },
+    {
+      "id": 11,
+      "nome": "TW 15/02",
+      "status": 1,
+      "inicio": "2026-02-13 12:05:44",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "220V",
+        "letra": "G",
+        "apostas": 106,
+        "apostadores_unicos": 34,
+        "valor": 53000000,
+        "retorno_simulado": 528301,
+        "multiplicador": 1.0566
+      },
+      "lado2": {
+        "cla": "RedForce",
+        "letra": "H",
+        "apostas": 6,
+        "apostadores_unicos": 6,
+        "valor": 3000000,
+        "retorno_simulado": 9333333,
+        "multiplicador": 18.6667
+      },
+      "total": {
+        "apostas": 112,
+        "valor": 56000000
+      }
+    },
+    {
+      "id": 10,
+      "nome": "TW 15/02",
+      "status": 1,
+      "inicio": "2026-02-13 12:04:38",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "E",
+        "apostas": 29,
+        "apostadores_unicos": 20,
+        "valor": 14500000,
+        "retorno_simulado": 706896,
+        "multiplicador": 1.4138
+      },
+      "lado2": {
+        "cla": "TRIBO",
+        "letra": "F",
+        "apostas": 12,
+        "apostadores_unicos": 9,
+        "valor": 6000000,
+        "retorno_simulado": 1708333,
+        "multiplicador": 3.4167
+      },
+      "total": {
+        "apostas": 41,
+        "valor": 20500000
+      }
+    },
+    {
+      "id": 9,
+      "nome": "TW 14/02",
+      "status": 1,
+      "inicio": "2026-02-13 12:03:49",
+      "vencedor": "DarkHawks",
+      "lado1": {
+        "cla": "DarkHawks",
+        "letra": "C",
+        "apostas": 24,
+        "apostadores_unicos": 17,
+        "valor": 12000000,
+        "retorno_simulado": 541666,
+        "multiplicador": 1.0833
+      },
+      "lado2": {
+        "cla": "PunisherS",
+        "letra": "D",
+        "apostas": 2,
+        "apostadores_unicos": 2,
+        "valor": 1000000,
+        "retorno_simulado": 6500000,
+        "multiplicador": 13
+      },
+      "total": {
+        "apostas": 26,
+        "valor": 13000000
+      }
+    },
+    {
+      "id": 8,
+      "nome": "TW 14/02",
+      "status": 1,
+      "inicio": "2026-02-13 12:01:54",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "A",
+        "apostas": 212,
+        "apostadores_unicos": 64,
+        "valor": 106000000,
+        "retorno_simulado": 556603,
+        "multiplicador": 1.1132
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "B",
+        "apostas": 24,
+        "apostadores_unicos": 17,
+        "valor": 12000000,
+        "retorno_simulado": 4916666,
+        "multiplicador": 9.8333
+      },
+      "total": {
+        "apostas": 236,
+        "valor": 118000000
+      }
+    },
+    {
+      "id": 7,
+      "nome": "TW 08/02",
+      "status": 1,
+      "inicio": "2026-02-05 20:51:52",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "RedForce",
+        "letra": "I",
+        "apostas": 35,
+        "apostadores_unicos": 26,
+        "valor": 17500000,
+        "retorno_simulado": 4314285,
+        "multiplicador": 8.6286
+      },
+      "lado2": {
+        "cla": "220V",
+        "letra": "J",
+        "apostas": 267,
+        "apostadores_unicos": 74,
+        "valor": 133500000,
+        "retorno_simulado": 565543,
+        "multiplicador": 1.1311
+      },
+      "total": {
+        "apostas": 302,
+        "valor": 151000000
+      }
+    },
+    {
+      "id": 6,
+      "nome": "TW 08/02",
+      "status": 1,
+      "inicio": "2026-02-05 20:50:06",
+      "vencedor": "RAGNAROK",
+      "lado1": {
+        "cla": "RAGNAROK",
+        "letra": "G",
+        "apostas": 175,
+        "apostadores_unicos": 59,
+        "valor": 87500000,
+        "retorno_simulado": 568571,
+        "multiplicador": 1.1371
+      },
+      "lado2": {
+        "cla": "ArtOfWar",
+        "letra": "H",
+        "apostas": 24,
+        "apostadores_unicos": 16,
+        "valor": 12000000,
+        "retorno_simulado": 4145833,
+        "multiplicador": 8.2917
+      },
+      "total": {
+        "apostas": 199,
+        "valor": 99500000
+      }
+    },
+    {
+      "id": 5,
+      "nome": "TW 08/02",
+      "status": 1,
+      "inicio": "2026-02-05 20:49:32",
+      "vencedor": "SERTAO",
+      "lado1": {
+        "cla": "SERTAO",
+        "letra": "E",
+        "apostas": 157,
+        "apostadores_unicos": 69,
+        "valor": 78500000,
+        "retorno_simulado": 729299,
+        "multiplicador": 1.4586
+      },
+      "lado2": {
+        "cla": "YoKai",
+        "letra": "F",
+        "apostas": 72,
+        "apostadores_unicos": 27,
+        "valor": 36000000,
+        "retorno_simulado": 1590277,
+        "multiplicador": 3.1806
+      },
+      "total": {
+        "apostas": 229,
+        "valor": 114500000
+      }
+    },
+    {
+      "id": 4,
+      "nome": "TW 07/02",
+      "status": 1,
+      "inicio": "2026-02-05 20:49:02",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "220V",
+        "letra": "C",
+        "apostas": 59,
+        "apostadores_unicos": 28,
+        "valor": 29500000,
+        "retorno_simulado": 618644,
+        "multiplicador": 1.2373
+      },
+      "lado2": {
+        "cla": "RedForce",
+        "letra": "D",
+        "apostas": 14,
+        "apostadores_unicos": 10,
+        "valor": 7000000,
+        "retorno_simulado": 2607142,
+        "multiplicador": 5.2143
+      },
+      "total": {
+        "apostas": 73,
+        "valor": 36500000
+      }
+    },
+    {
+      "id": 3,
+      "nome": "TW 07/02",
+      "status": 1,
+      "inicio": "2026-02-05 20:48:12",
+      "vencedor": "TheGlory",
+      "lado1": {
+        "cla": "TheGlory",
+        "letra": "A",
+        "apostas": 13,
+        "apostadores_unicos": 8,
+        "valor": 6500000,
+        "retorno_simulado": 500000,
+        "multiplicador": 1
+      },
+      "lado2": {
+        "cla": "Arsenal",
+        "letra": "B",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 13,
+        "valor": 6500000
+      }
+    },
+    {
+      "id": 2,
+      "nome": "TW 01/02",
+      "status": 1,
+      "inicio": "2026-01-29 19:38:37",
+      "vencedor": "220V",
+      "lado1": {
+        "cla": "220V",
+        "letra": "C",
+        "apostas": 154,
+        "apostadores_unicos": 66,
+        "valor": 77000000,
+        "retorno_simulado": 571428,
+        "multiplicador": 1.1429
+      },
+      "lado2": {
+        "cla": "DarkHawks",
+        "letra": "D",
+        "apostas": 22,
+        "apostadores_unicos": 19,
+        "valor": 11000000,
+        "retorno_simulado": 4000000,
+        "multiplicador": 8
+      },
+      "total": {
+        "apostas": 176,
+        "valor": 88000000
+      }
+    },
+    {
+      "id": 1,
+      "nome": "TW 01/02",
+      "status": 1,
+      "inicio": "2026-01-29 19:31:43",
+      "vencedor": "YoKai",
+      "lado1": {
+        "cla": "YoKai",
+        "letra": "A",
+        "apostas": 211,
+        "apostadores_unicos": 97,
+        "valor": 105500000,
+        "retorno_simulado": 604265,
+        "multiplicador": 1.2085
+      },
+      "lado2": {
+        "cla": "SIMIOS",
+        "letra": "B",
+        "apostas": 44,
+        "apostadores_unicos": 32,
+        "valor": 22000000,
+        "retorno_simulado": 2897727,
+        "multiplicador": 5.7955
+      },
+      "total": {
+        "apostas": 255,
+        "valor": 127500000
+      }
+    }
+  ]
+}
