@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-04T00:06:04.180Z",
+  "atualizado_em": "2026-10-04T00:11:05.679Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -47,21 +47,21 @@
         "apostas": 83,
         "apostadores_unicos": 22,
         "valor": 41500000,
-        "retorno_simulado": 3198795,
-        "multiplicador": 6.3976
+        "retorno_simulado": 3259036,
+        "multiplicador": 6.5181
       },
       "lado2": {
         "cla": "PANTANAL",
         "letra": "D",
-        "apostas": 448,
-        "apostadores_unicos": 29,
-        "valor": 224000000,
-        "retorno_simulado": 592633,
-        "multiplicador": 1.1853
+        "apostas": 458,
+        "apostadores_unicos": 31,
+        "valor": 229000000,
+        "retorno_simulado": 590611,
+        "multiplicador": 1.1812
       },
       "total": {
-        "apostas": 531,
-        "valor": 265500000
+        "apostas": 541,
+        "valor": 270500000
       }
     },
     {
