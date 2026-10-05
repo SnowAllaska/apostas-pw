@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-04T09:36:03.981Z",
+  "atualizado_em": "2026-10-05T00:51:10.210Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -9,59 +9,59 @@
     {
       "id": 106,
       "nome": "TW DIA 04/10",
-      "status": 0,
+      "status": 1,
       "inicio": "2026-10-02 21:16:37",
-      "vencedor": null,
+      "vencedor": "Sunrise",
       "lado1": {
         "cla": "Sunrise",
         "letra": "E",
-        "apostas": 33,
-        "apostadores_unicos": 9,
-        "valor": 16500000,
-        "retorno_simulado": 590909,
-        "multiplicador": 1.1818
+        "apostas": 83,
+        "apostadores_unicos": 22,
+        "valor": 41500000,
+        "retorno_simulado": 596385,
+        "multiplicador": 1.1928
       },
       "lado2": {
         "cla": "BIGBIGSz",
         "letra": "F",
-        "apostas": 6,
-        "apostadores_unicos": 6,
-        "valor": 3000000,
-        "retorno_simulado": 3250000,
-        "multiplicador": 6.5
+        "apostas": 16,
+        "apostadores_unicos": 11,
+        "valor": 8000000,
+        "retorno_simulado": 3093750,
+        "multiplicador": 6.1875
       },
       "total": {
-        "apostas": 39,
-        "valor": 19500000
+        "apostas": 99,
+        "valor": 49500000
       }
     },
     {
       "id": 105,
       "nome": "TW DIA 04/10",
-      "status": 0,
+      "status": 1,
       "inicio": "2026-10-02 21:15:14",
-      "vencedor": null,
+      "vencedor": "PANTANAL",
       "lado1": {
         "cla": "Wanted",
         "letra": "C",
-        "apostas": 83,
-        "apostadores_unicos": 22,
-        "valor": 41500000,
-        "retorno_simulado": 3265060,
-        "multiplicador": 6.5301
+        "apostas": 255,
+        "apostadores_unicos": 43,
+        "valor": 127500000,
+        "retorno_simulado": 3972549,
+        "multiplicador": 7.9451
       },
       "lado2": {
         "cla": "PANTANAL",
         "letra": "D",
-        "apostas": 459,
-        "apostadores_unicos": 31,
-        "valor": 229500000,
-        "retorno_simulado": 590413,
-        "multiplicador": 1.1808
+        "apostas": 1771,
+        "apostadores_unicos": 74,
+        "valor": 885500000,
+        "retorno_simulado": 571993,
+        "multiplicador": 1.144
       },
       "total": {
-        "apostas": 542,
-        "valor": 271000000
+        "apostas": 2026,
+        "valor": 1013000000
       }
     },
     {
