@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T17:15:53.514Z",
+  "atualizado_em": "2026-10-10T17:20:54.157Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -47,21 +47,21 @@
         "apostas": 156,
         "apostadores_unicos": 5,
         "valor": 78000000,
-        "retorno_simulado": 929487,
-        "multiplicador": 1.859
+        "retorno_simulado": 1054487,
+        "multiplicador": 2.109
       },
       "lado2": {
         "cla": "Serenity",
         "letra": "B",
-        "apostas": 134,
+        "apostas": 173,
         "apostadores_unicos": 8,
-        "valor": 67000000,
-        "retorno_simulado": 1082089,
-        "multiplicador": 2.1642
+        "valor": 86500000,
+        "retorno_simulado": 950867,
+        "multiplicador": 1.9017
       },
       "total": {
-        "apostas": 290,
-        "valor": 145000000
+        "apostas": 329,
+        "valor": 164500000
       }
     },
     {
