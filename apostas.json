@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T17:45:53.334Z",
+  "atualizado_em": "2026-10-10T17:50:54.729Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -15,9 +15,9 @@
       "lado1": {
         "cla": "Sunrise",
         "letra": "C",
-        "apostas": 8,
-        "apostadores_unicos": 3,
-        "valor": 4000000,
+        "apostas": 14,
+        "apostadores_unicos": 4,
+        "valor": 7000000,
         "retorno_simulado": 500000,
         "multiplicador": 1
       },
@@ -31,8 +31,8 @@
         "multiplicador": null
       },
       "total": {
-        "apostas": 8,
-        "valor": 4000000
+        "apostas": 14,
+        "valor": 7000000
       }
     },
     {
