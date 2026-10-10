@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T21:55:54.430Z",
+  "atualizado_em": "2026-10-10T22:00:52.193Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -18,21 +18,21 @@
         "apostas": 33,
         "apostadores_unicos": 8,
         "valor": 16500000,
-        "retorno_simulado": 651515,
-        "multiplicador": 1.303
+        "retorno_simulado": 666666,
+        "multiplicador": 1.3333
       },
       "lado2": {
         "cla": "Titans",
         "letra": "D",
-        "apostas": 10,
-        "apostadores_unicos": 3,
-        "valor": 5000000,
-        "retorno_simulado": 2150000,
-        "multiplicador": 4.3
+        "apostas": 11,
+        "apostadores_unicos": 4,
+        "valor": 5500000,
+        "retorno_simulado": 2000000,
+        "multiplicador": 4
       },
       "total": {
-        "apostas": 43,
-        "valor": 21500000
+        "apostas": 44,
+        "valor": 22000000
       }
     },
     {
@@ -44,24 +44,24 @@
       "lado1": {
         "cla": "RenegadoS",
         "letra": "A",
-        "apostas": 867,
-        "apostadores_unicos": 43,
-        "valor": 433500000,
-        "retorno_simulado": 1231257,
-        "multiplicador": 2.4625
+        "apostas": 907,
+        "apostadores_unicos": 45,
+        "valor": 453500000,
+        "retorno_simulado": 1199558,
+        "multiplicador": 2.3991
       },
       "lado2": {
         "cla": "Serenity",
         "letra": "B",
-        "apostas": 1268,
-        "apostadores_unicos": 40,
-        "valor": 634000000,
-        "retorno_simulado": 841876,
-        "multiplicador": 1.6838
+        "apostas": 1269,
+        "apostadores_unicos": 41,
+        "valor": 634500000,
+        "retorno_simulado": 857368,
+        "multiplicador": 1.7147
       },
       "total": {
-        "apostas": 2135,
-        "valor": 1067500000
+        "apostas": 2176,
+        "valor": 1088000000
       }
     },
     {
