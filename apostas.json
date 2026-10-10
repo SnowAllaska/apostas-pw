@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T18:50:53.326Z",
+  "atualizado_em": "2026-10-10T18:55:53.789Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -15,9 +15,9 @@
       "lado1": {
         "cla": "Sunrise",
         "letra": "C",
-        "apostas": 16,
-        "apostadores_unicos": 5,
-        "valor": 8000000,
+        "apostas": 18,
+        "apostadores_unicos": 6,
+        "valor": 9000000,
         "retorno_simulado": 500000,
         "multiplicador": 1
       },
@@ -31,8 +31,8 @@
         "multiplicador": null
       },
       "total": {
-        "apostas": 16,
-        "valor": 8000000
+        "apostas": 18,
+        "valor": 9000000
       }
     },
     {
@@ -44,24 +44,24 @@
       "lado1": {
         "cla": "RenegadoS",
         "letra": "A",
-        "apostas": 368,
-        "apostadores_unicos": 11,
-        "valor": 184000000,
-        "retorno_simulado": 1311141,
-        "multiplicador": 2.6223
+        "apostas": 374,
+        "apostadores_unicos": 12,
+        "valor": 187000000,
+        "retorno_simulado": 1363636,
+        "multiplicador": 2.7273
       },
       "lado2": {
         "cla": "Serenity",
         "letra": "B",
-        "apostas": 597,
-        "apostadores_unicos": 13,
-        "valor": 298500000,
-        "retorno_simulado": 808207,
-        "multiplicador": 1.6164
+        "apostas": 646,
+        "apostadores_unicos": 16,
+        "valor": 323000000,
+        "retorno_simulado": 789473,
+        "multiplicador": 1.5789
       },
       "total": {
-        "apostas": 965,
-        "valor": 482500000
+        "apostas": 1020,
+        "valor": 510000000
       }
     },
     {
