@@ -1,11 +1,69 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T03:05:52.914Z",
+  "atualizado_em": "2026-10-10T03:10:53.496Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
-  "quantidade_partidas": 100,
+  "quantidade_partidas": 102,
   "partidas": [
+    {
+      "id": 108,
+      "nome": "TW DIA 11/10",
+      "status": 0,
+      "inicio": "2026-10-10 00:08:59",
+      "vencedor": null,
+      "lado1": {
+        "cla": "Sunrise",
+        "letra": "C",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "lado2": {
+        "cla": "Titans",
+        "letra": "D",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 0,
+        "valor": 0
+      }
+    },
+    {
+      "id": 107,
+      "nome": "TW DIA 10/10",
+      "status": 0,
+      "inicio": "2026-10-10 00:08:15",
+      "vencedor": null,
+      "lado1": {
+        "cla": "RenegadoS",
+        "letra": "A",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "lado2": {
+        "cla": "Serenity",
+        "letra": "B",
+        "apostas": 0,
+        "apostadores_unicos": 0,
+        "valor": 0,
+        "retorno_simulado": null,
+        "multiplicador": null
+      },
+      "total": {
+        "apostas": 0,
+        "valor": 0
+      }
+    },
     {
       "id": 106,
       "nome": "TW DIA 04/10",
