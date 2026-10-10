@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-10T19:00:55.190Z",
+  "atualizado_em": "2026-10-10T21:01:15.626Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -15,24 +15,24 @@
       "lado1": {
         "cla": "Sunrise",
         "letra": "C",
-        "apostas": 18,
-        "apostadores_unicos": 6,
-        "valor": 9000000,
-        "retorno_simulado": 500000,
-        "multiplicador": 1
+        "apostas": 29,
+        "apostadores_unicos": 7,
+        "valor": 14500000,
+        "retorno_simulado": 517241,
+        "multiplicador": 1.0345
       },
       "lado2": {
         "cla": "Titans",
         "letra": "D",
-        "apostas": 0,
-        "apostadores_unicos": 0,
-        "valor": 0,
-        "retorno_simulado": null,
-        "multiplicador": null
+        "apostas": 1,
+        "apostadores_unicos": 1,
+        "valor": 500000,
+        "retorno_simulado": 15000000,
+        "multiplicador": 30
       },
       "total": {
-        "apostas": 18,
-        "valor": 9000000
+        "apostas": 30,
+        "valor": 15000000
       }
     },
     {
@@ -44,24 +44,24 @@
       "lado1": {
         "cla": "RenegadoS",
         "letra": "A",
-        "apostas": 374,
-        "apostadores_unicos": 12,
-        "valor": 187000000,
-        "retorno_simulado": 1455882,
-        "multiplicador": 2.9118
+        "apostas": 672,
+        "apostadores_unicos": 28,
+        "valor": 336000000,
+        "retorno_simulado": 1401785,
+        "multiplicador": 2.8036
       },
       "lado2": {
         "cla": "Serenity",
         "letra": "B",
-        "apostas": 715,
-        "apostadores_unicos": 17,
-        "valor": 357500000,
-        "retorno_simulado": 761538,
-        "multiplicador": 1.5231
+        "apostas": 1212,
+        "apostadores_unicos": 33,
+        "valor": 606000000,
+        "retorno_simulado": 777227,
+        "multiplicador": 1.5545
       },
       "total": {
-        "apostas": 1089,
-        "valor": 544500000
+        "apostas": 1884,
+        "valor": 942000000
       }
     },
     {
