@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-11T07:15:51.924Z",
+  "atualizado_em": "2026-10-11T11:45:51.391Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -15,11 +15,11 @@
       "lado1": {
         "cla": "Sunrise",
         "letra": "C",
-        "apostas": 69,
-        "apostadores_unicos": 13,
-        "valor": 34500000,
-        "retorno_simulado": 623188,
-        "multiplicador": 1.2464
+        "apostas": 78,
+        "apostadores_unicos": 16,
+        "valor": 39000000,
+        "retorno_simulado": 608974,
+        "multiplicador": 1.2179
       },
       "lado2": {
         "cla": "Titans",
@@ -27,12 +27,12 @@
         "apostas": 17,
         "apostadores_unicos": 5,
         "valor": 8500000,
-        "retorno_simulado": 2529411,
-        "multiplicador": 5.0588
+        "retorno_simulado": 2794117,
+        "multiplicador": 5.5882
       },
       "total": {
-        "apostas": 86,
-        "valor": 43000000
+        "apostas": 95,
+        "valor": 47500000
       }
     },
     {
