@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-11T11:45:51.391Z",
+  "atualizado_em": "2026-10-11T11:50:51.325Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -18,21 +18,21 @@
         "apostas": 78,
         "apostadores_unicos": 16,
         "valor": 39000000,
-        "retorno_simulado": 608974,
-        "multiplicador": 1.2179
+        "retorno_simulado": 615384,
+        "multiplicador": 1.2308
       },
       "lado2": {
         "cla": "Titans",
         "letra": "D",
-        "apostas": 17,
-        "apostadores_unicos": 5,
-        "valor": 8500000,
-        "retorno_simulado": 2794117,
-        "multiplicador": 5.5882
+        "apostas": 18,
+        "apostadores_unicos": 6,
+        "valor": 9000000,
+        "retorno_simulado": 2666666,
+        "multiplicador": 5.3333
       },
       "total": {
-        "apostas": 95,
-        "valor": 47500000
+        "apostas": 96,
+        "valor": 48000000
       }
     },
     {
