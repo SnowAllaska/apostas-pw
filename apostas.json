@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "atualizado_em": "2026-10-11T15:40:52.046Z",
+  "atualizado_em": "2026-10-12T02:40:58.690Z",
   "fonte": "The Classic PW",
   "evento": 126,
   "valor_por_aposta": 500000,
@@ -9,38 +9,38 @@
     {
       "id": 108,
       "nome": "TW DIA 11/10",
-      "status": 0,
+      "status": 1,
       "inicio": "2026-10-10 00:08:59",
-      "vencedor": null,
+      "vencedor": "Sunrise",
       "lado1": {
         "cla": "Sunrise",
         "letra": "C",
-        "apostas": 308,
-        "apostadores_unicos": 21,
-        "valor": 154000000,
-        "retorno_simulado": 529220,
-        "multiplicador": 1.0584
+        "apostas": 325,
+        "apostadores_unicos": 23,
+        "valor": 162500000,
+        "retorno_simulado": 550769,
+        "multiplicador": 1.1015
       },
       "lado2": {
         "cla": "Titans",
         "letra": "D",
-        "apostas": 18,
-        "apostadores_unicos": 6,
-        "valor": 9000000,
-        "retorno_simulado": 9055555,
-        "multiplicador": 18.1111
+        "apostas": 33,
+        "apostadores_unicos": 12,
+        "valor": 16500000,
+        "retorno_simulado": 5424242,
+        "multiplicador": 10.8485
       },
       "total": {
-        "apostas": 326,
-        "valor": 163000000
+        "apostas": 358,
+        "valor": 179000000
       }
     },
     {
       "id": 107,
       "nome": "TW DIA 10/10",
-      "status": 0,
+      "status": 1,
       "inicio": "2026-10-10 00:08:15",
-      "vencedor": null,
+      "vencedor": "Serenity",
       "lado1": {
         "cla": "RenegadoS",
         "letra": "A",
